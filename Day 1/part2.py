@@ -1,3 +1,5 @@
+import os 
+
 def get_numbers():
   os.system("clear")
   file = open("elf.txt","r")
